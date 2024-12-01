@@ -1,5 +1,3 @@
-# README
-
 ## DNS Resolver
 
 This project implements a simple DNS resolver in Python using UDP sockets. It listens on a specified port and responds to DNS queries for mappings defined in a local hosts file.
